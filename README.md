@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mardie328
-- 👀 I’m interested in Software engineering, Bioinformatics and genomics
+- 👀 I’m interested in Software engineering, front-end web development and bioinformatics.
 - 🌱 I’m currently studying Cell Biology and Genetics at the University of Lagos 
 - 💞️ I’m looking to collaborate on tasks which moves science and technology in new directions 
 - 📫 How to reach me: via https://twitter.com/__Mardiyyah or Tolayinka328@gmail.com 
