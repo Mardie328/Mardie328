@@ -17,17 +17,17 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Python and DSA  
   
 
-- ❓ Ask me about anything related to front-end and related technologies
+- ❓ Ask me about anything related to front-end development and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ I'm open to internships, open source projects and collaborations.  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -52,10 +52,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -83,12 +79,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Mardie328&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardie328&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
