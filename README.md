@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/__mardiyyah" target="blank"><img src="https://img.shields.io/twitter/follow/__mardiyyah?logo=twitter&style=for-the-badge" alt="__mardiyyah" /></a> </p>
 
+- 🌍 I'm based in Lagos, Nigeria
+
 - 🔭 I’m currently working on [C projects](https://github.com/Mardie328/alx-low_level_programming)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 Feel free to check out [my portfolio](portfolio)
 
 - 📝 I love to write articles on [hashnode](hashnode)
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **taofeekmardiyyah@gmail.com**
-
-- 📄 Know about my experiences on my [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
