@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 Feel free to check out [my portfolio](portfolio)
+- 👨‍💻 Feel free to check out [my portfolio]()
 
-- 📝 I love to write articles on [hashnode](hashnode)
+- 📝 I love to write articles on [hashnode]()
 
 - 💬 Ask me about **web development**
 
