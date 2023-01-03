@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in Lagos, Nigeria
 
-- 🔭 I’m currently working on [C projects](https://github.com/Mardie328/alx-low_level_programming)
+- 🔭 I’m currently working on [python projects](https://github.com/Mardie328/alx-higher_level_programming)
 
 - 🌱 I’m currently learning **Javascript**
 
