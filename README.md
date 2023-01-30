@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mardiyyah</h1>
 <h3 align="center">I'm enthusiastic about front end development and just sharing my coding journey.</h3>
 
-<p align="left"> <a href="https://twitter.com/__mardiyyah" target="blank"><img src="https://img.shields.io/twitter/follow/__mardiyyah?logo=twitter&style=for-the-badge" alt="muslimah_techie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muslimah_techie" target="blank"><img src="https://img.shields.io/twitter/follow/muslimah_techie?logo=twitter&style=for-the-badge" alt="muslimah_techie" /></a> </p>
 
 - 🌍 I'm based in Lagos, Nigeria
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__mardiyyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mardiyyah" height="30" width="40" /></a>
+<a href="https://twitter.com/muslimah_techie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muslimah_techie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mardiyyah-taofeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mardiyyah-taofeek" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mardiyyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mardiyyah" height="30" width="40" /></a>
 </p>
