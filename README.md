@@ -5,13 +5,13 @@
 
 - 🌍 I'm based in Lagos, Nigeria
 
-- 🔭 I’m currently working on [python projects](https://github.com/Mardie328/alx-higher_level_programming)
+- 🔭 I’m currently working on [frontend mentor projects]()
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 Feel free to check out [my portfolio]()
+<!--- 👨‍💻 Feel free to check out [my portfolio]()--->
 
-- 📝 I love to write articles on [hashnode]()
+<!--- 📝 I love to write articles on [hashnode]()--->
 
 - 💬 Ask me about **web development**
 
