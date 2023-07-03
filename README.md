@@ -5,8 +5,6 @@
 
 - 🌍 I'm based in Lagos, Nigeria
 
-- 🔭 I’m currently working on [frontend mentor projects]()
-
 - 🌱 I’m currently learning **Javascript**
 
 <!--- 👨‍💻 Feel free to check out [my portfolio]()--->
