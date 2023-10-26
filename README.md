@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mardiyyah</h1>
-<h3 align="center">I'm enthusiastic about front-end development and just sharing my coding journey.</h3>
-
-<a href="https://twitter.com/TechieHijabie" class="twitter-follow-button" data-show-count="true">Follow @TechieHijabie</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h3 align="center">Just sharing my coding journey...</h3>
 
 - 🌍 I'm based in Lagos, Nigeria
 
