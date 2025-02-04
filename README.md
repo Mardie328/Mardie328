@@ -3,13 +3,13 @@
 
 - 🌍 I'm based in Lagos, Nigeria
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 <!--- 👨‍💻 Feel free to check out [my portfolio]()--->
 
-<!--- 📝 I love to write articles on [hashnode]()--->
+<!--- 📝 I love to write articles on [Medium]()--->
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Healthcare Data Analysis**
 
 - 📫 How to reach me **taofeekmardiyyah@gmail.com**
 
